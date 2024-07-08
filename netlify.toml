@@ -1,5 +1,5 @@
 [build]
-  base    = "/opt/build/repo/app"
-  publish = "/opt/build/repo/app"
+  base    = "/opt/build/repo"
+  publish = "/opt/build/repo"
   command = "npm install && npm run build"
   environment = { NODE_VERSION = "20.11.1" } 
