@@ -1,0 +1,51 @@
+#techBlog {
+    color: rgb(44, 28, 28);
+    background: linear-gradient(to left, aquamarine, silver);
+}
+
+#techBlog:hover {
+    background: linear-gradient(to right, aquamarine, silver);
+}
+
+#skyWatcher {
+    background: linear-gradient(to right, #ff70f5, #424bf7);
+}
+
+#skyWatcher:hover {
+    background: linear-gradient(to left, #ff70f5, #424bf7);
+}
+
+#goatECommerce {
+    color: white;
+    background: linear-gradient(to right, #552583, #fdb927);
+}
+
+#goatECommerce:hover {
+    background: linear-gradient(to left, #552583, #fdb927);
+}
+
+#codingQuiz {
+    background: linear-gradient(to right, cornsilk, tan);
+}
+
+#codingQuiz:hover {
+    background: linear-gradient(to left, cornsilk, tan);
+}
+
+#happyPlate {
+    color: white;
+    background: linear-gradient(to right, skyblue, hotpink);
+}
+
+#happyPlate:hover {
+    color: white;
+    background: linear-gradient(to left, skyblue, hotpink);
+}
+
+#cafeDuCoast {
+    background: linear-gradient(to left, rgb(68, 31, 31), rgb(223, 26, 26));
+}
+
+#cafeDuCoast:hover {
+    background: linear-gradient(to right, rgb(68, 31, 31), rgb(223, 26, 26));
+}
