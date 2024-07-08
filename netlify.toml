@@ -1,4 +1,3 @@
 [build]
-  publish = "bootcamp-challenge-20/.next"
   command = "npm install && npm run build"
   environment = { NODE_VERSION = "18.17.0" } 
