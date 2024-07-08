@@ -1,5 +1,5 @@
 [build]
   base = ""
   publish = ""
-  command = "npm install && npm run build"
+  command = "next build"
   environment = { NODE_VERSION = "14" } 
