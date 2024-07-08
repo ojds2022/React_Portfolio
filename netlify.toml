@@ -1,5 +1,5 @@
 [build]
-  base    = "/opt/build/repo"
-  publish = "/opt/build/repo"
+  base = "/opt/build/repo/bootcamp-challenge-20"
+  publish = "/opt/build/repo/bootcamp-challenge-20"
   command = "npm install && npm run build"
   environment = { NODE_VERSION = "14" } 
