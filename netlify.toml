@@ -1,5 +1,5 @@
 [build]
-  base = ""
-  publish = ""
+  base = "bootcamp-challenge-20"
+  publish = "bootcamp-challenge-20/.next"
   command = "next build"
   environment = { NODE_VERSION = "18.17.0" } 
