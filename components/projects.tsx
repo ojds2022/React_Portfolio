@@ -1,5 +1,5 @@
 import Link from "next/link";
-import '../styles/projects.css';
+import '../styles/projects.module.css';
 
 export default function Projects() {
     return (

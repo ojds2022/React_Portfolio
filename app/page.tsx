@@ -3,7 +3,7 @@
 import { useEffect, useState, useRef } from 'react';
 import ArrowCircleDownIcon from '@mui/icons-material/ArrowCircleDown';
 import Projects from '../components/projects';
-import '../styles/home.css';
+import '../styles/home.module.css';
 
 export default function Home() {
   const [isClient, setIsClient] = useState(false);
