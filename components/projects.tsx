@@ -1,6 +1,5 @@
 import Link from "next/link";
-import Image from "next/image";
-import '../public/assets/css/projects.css';
+import '../styles/projects.css';
 
 export default function Projects() {
     return (

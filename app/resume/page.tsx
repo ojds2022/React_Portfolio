@@ -37,12 +37,13 @@ export default function Resume() {
                     I have experince working in startup environments, as well as coroprate settings. My specialties include 
                     JavaScript, TypeScript, HTML/CSS, React, Node, SQL, Sequelize, and MongoDB.
                 </p>
-                <div className='flex flex-wrap justify-center mt-10'>
-                    <Image className='shrink-0 m-2' src="/assets/images/Javascript.png" alt="JavaScript logo" width={'180'} height={'160'} />
-                    <Image className='shrink-0 m-2' src="/assets/images/Typescript.png" alt="TypeScript logo" width={'180'} height={'160'} />
-                    <Image className='shrink-0 m-2' src="/assets/images/React.png" alt="React logo" width={'180'} height={'160'} />
-                    <Image className='shrink-0 m-2' src="/assets/images/node.png" alt="Node logo" width={'180'} height={'160'} />
+                <div className='flex flex-wrap justify-center my-10'>
+                    <Image className='shrink-0 m-2' src="/images/Javascript.png" alt="JavaScript logo" width={'180'} height={'160'} />
+                    <Image className='shrink-0 m-2' src="/images/Typescript.png" alt="TypeScript logo" width={'180'} height={'160'} />
+                    <Image className='shrink-0 m-2' src="/images/React.png" alt="React logo" width={'180'} height={'160'} />
+                    <Image className='shrink-0 m-2' src="/images/node.png" alt="Node logo" width={'180'} height={'160'} />
                 </div>
+                <Link className='hover:text-blue-400' href={'/'}>Back to Portfolio</Link>
             </section>
         </div>
     );
